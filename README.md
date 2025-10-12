@@ -1,5 +1,7 @@
-# Analysing News
-Collage class work: python Django project - Analysing News (ANANews)
+# Analysing News (ANANews)
+Collage project: python Django project - Analysing News (ANANews)
+
+大學作品：自動新聞爬蟲 & AI分析網站
 
 ## 🔑 API Key Setup
 
