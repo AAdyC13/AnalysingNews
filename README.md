@@ -1,6 +1,6 @@
 # Analysing News (ANANews)
 日本語｜大学プロジェクト：自動ニュースクローラー・AI分析サイト  
-English｜Collage project: Analysing News
+English｜Collage project: Analysing News  
 中文｜大學作品：自動新聞爬蟲 & AI分析網站  
 
 ## プロジェクト紹介
